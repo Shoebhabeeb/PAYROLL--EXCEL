@@ -1,0 +1,175 @@
+
+
+ PAYROLL REGISTER - MULTI STATE       CHECK DATE  07/27/2018                                    07/26/2018
+ CXXX SXXXXXXX XXXXX XXX - XXXX       PERIOD BEGIN  07/07/2018  PERIOD END  07/20/2018            PAGE     1
+
+
+  EMPLOYEE NAME                    EARNINGS    PAY          CURRENT               YTD          DEDUCTIONS      CURRENT        YTD  TAXES        CURRENT        YTD     NET PAY
+  ID SSN STATE/FRQ STS LOCATION    DESCR       RATE     HOURS    AMOUNT     HOURS     AMOUNT   DESCR            AMOUNT     AMOUNT  DESCR         AMOUNT     AMOUNT     CHECK NO
+
+ AXXXXXX XXXXXX, XXXXXX          1 REGULAR              8000     152000    43900      834100 C1 CHECKING 1      174329      903361 FEDERAL        21306       98717          000
+ 1562 XXX-XX-XXXX XX XX XX       2 OVERTIME  285000     2175      61988     8125      231565 L1 EE L&I            1983       10138 OASDI          13267       67956     DIRDEP
+ 26 S2/S2 300    301             H HOLIDAY                                  1600       30400 L2 ER L&I            8265       42257 MEDICARE        3103       15893
+  19.0000 Hourly
+ Last Check Date 07/27/2018
+
+
+
+   EMPLOYEE TOTAL                                      10175     213988    53625     1096065                    176312      913499                37676      182566
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ AXXX, CXXXXXX                   1 REGULAR              7000     192308   110350     2884620  D DRAW                           696 FEDERAL        32532      321363          000
+ 1217 XXX-XX-XXXX XX XX XX       B BONUS                          67308               228515 C1 CHECKING 1      196106     2384804 OASDI          15441      183188     DIRDEP
+ 26 S1/S0 300    300             H HOLIDAY                                  3200             L1 EE L&I            1364       21815 MEDICARE        3611       42839
+  1923.08 Salary                 P PERSONAL             1000                4850             L2 ER L&I            5686       90931
+ Last Check Date 07/27/2018     2P MEDICAL                        -9840              -147600
+                                CB CCB                                      1600
+                                DQ DENTAL 1                        -722               -10830
+
+   EMPLOYEE TOTAL                                       8000     249054   120000     2954705                    197470     2407315                51584      547390
+                                                                 259616              3113135
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ AXX, MXXXXXX                    1 REGULAR              8000     169231   109600     2538465 C1 CHECKING 1      344204     2956561 FEDERAL        92064      527797          000
+ 1375 XXX-XX-XXXX XX XX XX       B BONUS                                              204346                                       OASDI          31639      253745     DIRDEP
+ 26 S1/S1 700    700             C COMMISSI                      341338              1353779                                       MEDICARE        7399       59342
+  1692.31 Salary                 H HOLIDAY                                  3200                                                   ID STATE       30000      215200
+ Last Check Date 07/27/2018      P PERSONAL                                 7200
+                                K1 EE 401K                        -5000               -80000
+                                K2 401K E-M                        1250                20000
+                                VP VISION                          -263                -3945
+   EMPLOYEE TOTAL                                       8000     505306   120000     4012645                    344204     2956561               161102     1056084
+                                                                 510569              4096590
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ AXXXX, JXX                      1 REGULAR              7200     315715   112400     4680549 AF M OF O POST       4981       74715 FEDERAL        22852      204696          000
+ 1032 XXX-XX-XXXX XX XX XX       B BONUS                          93800               231300 C1 CHECKING 1      285238     3430466 OASDI          23700      282602     DIRDEP
+ 26 M8/M8 200    200             H HOLIDAY                                  3200             K1 401K LOAN         9877      146391 MEDICARE        5543       66095
+  3157.15 Salary                 P PERSONAL              800                3600             WB WBF                101        1586 OR STATE       22082      238419
+ Last Check Date 07/27/2018     1P MEDICAL                       -25110              -376650                                       2018-TRAN        382         670
+                                CB CCB                                       800
+                                DP DENTAL 1                       -1457               -21855
+                                K1 EE 401K                        -7500              -112500
+                                K2 401K E-M                        1875                28125
+                                RE RETRO PA                                            55176
+                                VP VISION                          -692               -10380
+
+
+
+
+
+
+ XXXXXXX OF NEW YORK LLC                                         PHONE  (503)620-XXXXFAX  (503)639-XXXX
+
+ PAYROLL REGISTER - MULTI STATE       CHECK DATE  07/27/2018                                    07/26/2018
+ CXXX SXXXXXXX XXXXX XXX - XXXX       PERIOD BEGIN  07/07/2018  PERIOD END  07/20/2018            PAGE     2
+
+
+  EMPLOYEE NAME                    EARNINGS    PAY          CURRENT               YTD          DEDUCTIONS      CURRENT        YTD  TAXES        CURRENT        YTD     NET PAY
+  ID SSN STATE/FRQ STS LOCATION    DESCR       RATE     HOURS    AMOUNT     HOURS     AMOUNT   DESCR            AMOUNT     AMOUNT  DESCR         AMOUNT     AMOUNT     CHECK NO
+
+   EMPLOYEE TOTAL                                       8000     374756   120000     4445640                    300197     3653158                74559      792482
+                                                                 409515              4967025
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ AXXXXX, MXXX                    1 REGULAR              8000     403847   116000     6057705 C1 CHECKING 1      427021     7884284 FEDERAL        48456      787754          000
+ 1248 XXX-XX-XXXX XX XX XX       B BONUS                                             1736073                                       OASDI          34815      629867     DIRDEP
+ 26 M9/M9 400    400             C COMMISSI                      157692              2365380                                       MEDICARE        8147      147308
+  4038.47 Salary                 H HOLIDAY                                  3200                                                   CA STATE       26254      405168
+ Last Check Date 07/27/2018      P PERSONAL                                 1600                                                   CA SDI          5615      101591
+                                K1 EE 401K                       -11231              -203186
+                                K2 401K E-M                        2808                50800
+
+
+
+   EMPLOYEE TOTAL                                       8000     550308   120800     9955972                    427021     7884284               123287     2071688
+                                                                 561539             10159158
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ AXXXXXXX, DXXXXXX               1 REGULAR              8000     144000    62300     1121400 C1 CHECKING 1      128700      128700 FEDERAL         9926       67224          000
+ 1552 XXX-XX-XXXX XX XX XX       B BONUS                          26451                26451 WB WBF                112         538 OASDI           9887       69546     DIRDEP
+ 26 S3/S3 100    101             H HOLIDAY                                  1600       28800                                       MEDICARE        2312       16266
+  18.0000 Hourly                1P MEDICAL                                             -9841
+ Last Check Date 07/27/2018     2P MEDICAL                        -9840               -39360
+                                DP DENTAL 1                                             -722
+                                DQ DENTAL 1                        -722                -2888
+                                K1 EE 401K                        -8523               -15723
+                                K2 401K E-M                        1705                 3145
+                                V1 VISP E/S                        -429                -1287
+                                VP VISION                                               -858
+   EMPLOYEE TOTAL                                       8000     150937    63900     1105972                    128812      129238                22125      153036
+                                                                 170451              1176651
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ AXXXXX, DXXXX                   1 REGULAR              7000     208810   105500     3147067 C1 CHECKING 1      160031     2423940 FEDERAL        14919      217702          000
+ 1219 XXX-XX-XXXX XX XX XX       2 OVERTIME                                 5525      247217 K1 401K LOAN         6389       12778 OASDI          14864      217556     DIRDEP
+ 26 M2/M2 600    601             5 ON CALL                                              7000 WB WBF                098        1577 MEDICARE        3476       50879
+  29.8300 Hourly                 B BONUS                          30000                75000                                       OR STATE       12866      189864
+ Last Check Date 07/27/2018      H HOLIDAY                                  3200       95456                                       2018-TRAN        240         450
+                                 P PERSONAL             1000      29830    10825      322911
+                                3P MEDICAL                       -21744              -326160
+                                CB CCB                                      1600       47728
+                                DP DENTAL 1                       -1457               -21855
+                                H1 HSA                            -5000               -75000
+                                K1 EE 401K                       -26864              -394238
+                                K2 401K E-M                        2686                39423
+                                VP VISION                          -692               -10380
+
+
+
+
+
+
+ XXXXXXX OF NEW YORK LLC                                         PHONE  (503)620-XXXXFAX  (503)639-XXXX
+
+ PAYROLL REGISTER - MULTI STATE       CHECK DATE  07/27/2018                                    07/26/2018
+ CXXX SXXXXXXX XXXXX XXX - XXXX       PERIOD BEGIN  07/07/2018  PERIOD END  07/20/2018            PAGE     3
+
+
+  EMPLOYEE NAME                    EARNINGS    PAY          CURRENT               YTD          DEDUCTIONS      CURRENT        YTD  TAXES        CURRENT        YTD     NET PAY
+  ID SSN STATE/FRQ STS LOCATION    DESCR       RATE     HOURS    AMOUNT     HOURS     AMOUNT   DESCR            AMOUNT     AMOUNT  DESCR         AMOUNT     AMOUNT     CHECK NO
+
+   EMPLOYEE TOTAL                                       8000     212883   126650     3114746                    166518     2438295                46365      676451
+                                                                 268640              3942379
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ AXXXXXXX, JXXXX                 1 REGULAR              8000     172327   112800     2584905 C1 CHECKING 1      133482     1630092 FEDERAL        13905      119251          000
+ 1422 XXX-XX-XXXX XX XX XX       B BONUS                          37636               164098 G1 GARNISHMENT                 140928 OASDI          10696      135605     DIRDEP
+ 26 M0/M0 100    101             H HOLIDAY                                  3200             WB WBF                112        1580 MEDICARE        2501       31719
+  1723.27 Salary                 P PERSONAL                                 4000                                                   OR STATE       11643      127705
+ Last Check Date 07/27/2018     1P MEDICAL                       -25110              -376650                                       2018-TRAN        173         358
+                                DP DENTAL 1                       -1457               -21855
+                                MP MEDICAL                       -10192              -152880
+                                VP VISION                          -692               -10380
+
+   EMPLOYEE TOTAL                                       8000     172512   120000     2187238                    133594     1772600                38918      414638
+                                                                 209963              2749003
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ AXXXXXXX, TXXXXX                1 REGULAR              8000     288462    49600     1875023 C1 CHECKING 1      218329     1507086 FEDERAL        13543       92801          000
+ 1556 XXX-XX-XXXX XX XX XX       H HOLIDAY                                  1600                                                   OASDI          16446      113375     DIRDEP
+ 26 M6/M6 100    105            3P MEDICAL                       -21744               -43488                                       MEDICARE        3846       26515
+  2884.62 Salary                DP DENTAL 1                       -1457                -2914                                       UT STATE       13097       88844
+ Last Check Date 07/27/2018
+
+
+
+   EMPLOYEE TOTAL                                       8000     265261    51200     1828621                    218329     1507086                46932      321535
+                                                                 288462              1875023
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ AXXXXXX, UXXXXXX                1 REGULAR              8000     307693   109600     4384623 C1 CHECKING 1      251442     3507615 FEDERAL        27300      388952          000
+ 1433 XXX-XX-XXXX XX XX XX       B BONUS                          25000                25000                                       OASDI          20622      287704     DIRDEP
+ 26 M2/M2 400    400             H HOLIDAY                                  3200                                                   MEDICARE        4824       67290
+  3076.93 Salary                 P PERSONAL                                 7200                                                   CA STATE        8543      110411
+ Last Check Date 07/27/2018     K1 EE 401K                       -16635              -232019                                       CA SDI          3327       46404
+                                K2 401K E-M                        3327                46409
+                                RE RETRO PA                                           230772
+
+
+
+   EMPLOYEE TOTAL                                       8000     316058   120000     4408376                    251442     3507615                64616      900761
+                                                                 332693              4640395
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ AXXXXX, MXXXX                   1 REGULAR              8000     633847   116800     9433857 C1 CHECKING 1      489033     9969164 FEDERAL        73909     1361537          000
+ 1026 XXX-XX-XXXX XX XX XX       B BONUS                                             3751806                                       OASDI          13289      796080     DIRDEP
+ 26 M5/M5 100    100             H HOLIDAY                                  3200                                                   MEDICARE        9191      192265
+  6338.47 Salary                K1 EE 401K                       -31692              -475381                                       OR STATE       16099      463816
+
+
+
+
+
+
+ XXXXXXX OF NEW YORK LLC                                         PHONE  (503)620-XXXXFAX  (503)639-XXXX
